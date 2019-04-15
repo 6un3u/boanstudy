@@ -1,1 +1,17 @@
-﻿한글 테스트 2(ANSI -> UTF8)
+﻿20190415 내용
+
+1. 운영체제 팀프로젝트 'NachOS' 설치 및 테스트
+- 참고 영상 : https://youtu.be/yexGUBLJBWQ
+- 코드 : https://cs.nyu.edu/courses/spring05/V22.0202-001.nachos-resources.htm
+- cross-compiler (binutils) 설치 없이 영상 따라서 했는데 실행이 잘 되는 것 같음
+(( 수정된 코드 때문인지 3.4 파일과 비교 해봐야 알 것 같음 ))
+- main() 함수 분석_코드 분석 해야 됨
+
+2. git 생성_boanstudy
+- 폴더 내에 1개 이상의 파일이 있어야 폴더 commit 가능
+( 폴더명/파일명 형태 )
+- 한글 ANSI는 깨짐. 메모장으로 한글 작성 시 UTF8 인코딩 할 것
+- 각자 폴더에서 작업할 경우 branch 만들지 말고 master에서 할 것.
+( branch는 나중에 )
+( github app에서 fetch origin 먼저 하고 pull 필요한지 확인 후 commit-push )
+
