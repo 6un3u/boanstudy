@@ -36,6 +36,6 @@
 
 
 
-#### [참고자료]
+#### 참고글
 
 1. 보안뉴스. [내 PC에 폭탄이 숨어 있다, 로직 밤](https://www.boannews.com/media/view.asp?idx=79930&kind=15). 2019-05-29.
